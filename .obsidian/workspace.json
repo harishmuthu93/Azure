@@ -128,13 +128,21 @@
                 "file": "Az-900/Notes.md"
               }
             }
+          },
+          {
+            "id": "46cf8fd7564954f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
