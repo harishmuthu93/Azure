@@ -39,3 +39,24 @@ Scaling generally comes in two varieties: vertical and horizontal. Vertical scal
 
 ![alt text](<../Assets/Attachments/Screenshot 2024-08-19 154103.png>)
 
+### Resource Groups:
+
+Resource groups are simply groupings of resources. When you create a resource, you’re required to place it into a resource group. While a resource group can contain many resources, a single resource can only be in one resource group at a time. Some resources may be moved between resource groups, but when you move a resource to a new group, it will no longer be associated with the former group. Additionally, resource groups can't be nested, meaning you can’t put resource group B inside of resource group A.
+
+Resource groups provide a convenient way to group resources together. When you apply an action to a resource group, that action will apply to all the resources within the resource group. If you delete a resource group, all the resources will be deleted. If you grant or deny access to a resource group, you’ve granted or denied access to all the resources within the resource group.
+
+### Azure subscriptions
+
+In Azure, subscriptions are a unit of management, billing, and scale. Similar to how resource groups are a way to logically organize resources, subscriptions allow you to logically organize your resource groups and facilitate billing.
+
+### Azure Management Groups:
+
+If you have many subscriptions, you might need a way to efficiently manage access, policies, and compliance for those subscriptions. Azure management groups provide a level of scope above subscriptions. You organize subscriptions into containers called management groups and apply governance conditions to the management groups. All subscriptions within a management group automatically inherit the conditions applied to the management group, the same way that resource groups inherit settings from subscriptions and resources inherit from resource groups. Management groups give you enterprise-grade management at a large scale, no matter what type of subscriptions you might have. Management groups can be nested.
+
+### Important facts about management groups:
+
+10,000 management groups can be supported in a single directory.
+A management group tree can support up to six levels of depth. This limit doesn't include the root level or the subscription level.
+Each management group and subscription can support only one parent.
+
+
