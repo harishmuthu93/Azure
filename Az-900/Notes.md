@@ -12,3 +12,4 @@
 ### Shared Responsibility Model:
 
 
+![[Assets/Attachments/Screenshot 2024-08-19 085347.png]]
