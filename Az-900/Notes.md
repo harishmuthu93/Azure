@@ -60,3 +60,15 @@ A management group tree can support up to six levels of depth. This limit doesn'
 Each management group and subscription can support only one parent.
 
 
+### Enhance security
+Azure Virtual Desktop provides centralized security management for users' desktops with Microsoft Entra ID. You can enable multifactor authentication to secure user sign-ins. You can also secure access to data by assigning granular role-based access controls (RBACs) to users.
+
+### What are containers?
+Containers are a virtualization environment. Much like running multiple virtual machines on a single physical host, you can run multiple containers on a single physical or virtual host. Unlike virtual machines, you don't manage the operating system for a container. Virtual machines appear to be an instance of an operating system that you can connect to and manage. Containers are lightweight and designed to be created, scaled out, and stopped dynamically. It's possible to create and deploy virtual machines as application demand increases, but containers are a lighter weight, more agile method. Containers are designed to allow you to respond to changes on demand. With containers, you can quickly restart if there's a crash or hardware interruption. One of the most popular container engines is Docker, and Azure supports Docker.
+
+Vm's virtualizes the hardware but Containers virtualizes the OS.
+
+![alt text](<../Assets/Attachments/Screenshot 2024-08-19 205048.png>)
+
+
+
