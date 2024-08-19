@@ -22,3 +22,14 @@
 
 ![alt text](<../Assets/Attachments/Screenshot 2024-08-19 142344.png>)
 
+### Azure Arc:
+
+Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
+
+### Scalability:
+
+Scaling generally comes in two varieties: vertical and horizontal. Vertical scaling is focused on increasing or decreasing the capabilities of resources. Horizontal scaling is adding or subtracting the number of resources.
+
+
+
+
