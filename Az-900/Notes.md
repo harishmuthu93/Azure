@@ -70,5 +70,8 @@ Vm's virtualizes the hardware but Containers virtualizes the OS.
 
 ![alt text](<../Assets/Attachments/Screenshot 2024-08-19 205048.png>)
 
+### Use containers in your solutions
+Containers are often used to create solutions by using a microservice architecture. This architecture is where you break solutions into smaller, independent pieces. For example, you might split a website into a container hosting your front end, another hosting your back end, and a third for storage. This split allows you to separate portions of your app into logical sections that can be maintained, scaled, or updated independently.
 
+Imagine your website back-end reaches capacity, but the front end and storage aren't stressed. With containers, you could scale the back-end separately to improve performance. If something necessitated such a change, you could also choose to change the storage service or modify the front end without impacting any of the other components.
 
