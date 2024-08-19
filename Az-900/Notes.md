@@ -13,3 +13,8 @@
 
 ![[Screenshot 2024-08-19 085347.png|700]]
 
+
+![[25519 1.jpeg]]
+
+
+rtretyyeeyrery
