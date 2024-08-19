@@ -11,6 +11,4 @@
 | Describe Azure management and governance | 30-35%     |
 ### Shared Responsibility Model:
 
-![[Screenshot 2024-08-19 085347.png|700]]
-
 
