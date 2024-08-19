@@ -30,6 +30,12 @@ Azure Arc is a set of technologies that helps manage your cloud environment. Azu
 
 Scaling generally comes in two varieties: vertical and horizontal. Vertical scaling is focused on increasing or decreasing the capabilities of resources. Horizontal scaling is adding or subtracting the number of resources.
 
+### Azure Account & Subscription:
+
+![alt text](<../Assets/Attachments/Screenshot 2024-08-19 152801.png>)
 
 
+### Availability Zones:
+
+![alt text](<../Assets/Attachments/Screenshot 2024-08-19 154103.png>)
 
