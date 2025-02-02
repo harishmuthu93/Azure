@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3b5b254a90eb13e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Az-900/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f15a5e6bda455d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Az-900/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Az-900/Notes.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Az-900/Notes.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Az-900/Notes.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -167,10 +157,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f15a5e6bda455d3",
+  "active": "adb5ff1554fbd199",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Azure/Az-900/Notes.md",
+    "Untitled.canvas",
     "Az-900/Notes.md",
+    "Resources/ten-azure-backup-practical-tips.pdf",
+    "Resources/ten-azure-backup-practical-tips-infographic.pdf",
+    "Resources/conversational-backup-microsoft-azure.pdf",
+    "Resources",
+    "Az-104/Az-104 Notes.pdf",
+    "Az-104",
+    "Assets/Attachments/Screenshot 2024-08-19 205048.png",
+    "Assets/Attachments/Screenshot 2024-08-19 154103.png",
+    "Assets/Attachments/Screenshot 2024-08-19 152801.png",
+    "Assets/Attachments/Screenshot 2024-08-19 142344.png",
+    "conflict-files-obsidian-git.md",
     "Assets/Attachments/25519 1.jpeg",
     "Assets/Attachments/Screenshot 2024-08-19 085347.png",
     "Assets/Attachments/25519.jpeg",
