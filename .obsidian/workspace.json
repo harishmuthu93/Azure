@@ -11,14 +11,11 @@
             "id": "5f15a5e6bda455d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Azure/Az-900/Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Azure/Az-900/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Azure/Az-900/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Azure/Az-900/Notes.md"
               }
             }
           },
@@ -159,8 +156,8 @@
   },
   "active": "adb5ff1554fbd199",
   "lastOpenFiles": [
-    "Azure/Az-900/Notes.md",
     "Untitled.canvas",
+    "Azure/Az-900/Notes.md",
     "Az-900/Notes.md",
     "Resources/ten-azure-backup-practical-tips.pdf",
     "Resources/ten-azure-backup-practical-tips-infographic.pdf",
